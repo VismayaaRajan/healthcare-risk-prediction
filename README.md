@@ -20,10 +20,6 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SHAP.
 ## Evaluation Metrics
 Accuracy, Precision, Recall, F1-score, ROC-AUC, and Confusion Matrix.
 
-## Project Structure
-- `datasets/` — Input datasets
-- `results/` — Model metrics and trained models
-- `Explainable_Ensemble_Healthcare_Risk_Prediction.ipynb` — Project notebook
-
 ## Author
-Vismayaa Rajan
+Vismayaa Rajan-23070521169
+Arya Jain=23070521218
